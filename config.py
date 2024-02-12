@@ -11,7 +11,6 @@ class Config:
     
     #URL Telegram Api для того чтобы бот кушал файлы больше 20 Мб
     #API_URL = 'https://localhost:8081'
-    #API_URL = 'https://149.154.167.40:443'
 
 # Это может быть полезно, если вы хотите иметь разные настройки для разработки и продакшена
 class DevelopmentConfig(Config):
